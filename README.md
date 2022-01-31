@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**MateusJose/MateusJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HELLO WORLD 💾
 
-Here are some ideas to get you started:
+### Me chamo Jose, tenho 25 anos Sou apaixonado por carros e Tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estou em transição de carreira, cursei Engenharia agronoma por 2 Periodos, trabalhei como gerente de vendas por 3 anos em uma empresa do ramo agricola!
+
+### Tenho projetos desenvolvidos de estudo usando:
+
+## ⋆ MySQL
+## ⋆ HTML
+## ⋆ CSS
+## ⋆ JavaScript
+
+### " Tornamo-nos deuses na tecnologia, mas permanecemos macacos na vida."
